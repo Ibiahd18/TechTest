@@ -4,7 +4,6 @@ Overview
 
 The Medi Score Calculator is a Python script that evaluates a patient's health status based on key vital signs. 
 
-Thought Process & Design Ideas
 
 Object-Oriented Approach
 
